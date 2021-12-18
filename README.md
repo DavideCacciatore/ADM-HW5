@@ -1,5 +1,9 @@
 # ADM-HW5
 
+## Content Description
+* `functionality_2.py`: a .py file with all the functions implemented for the functionality 2 and visualization 2.
+* `main.ipynb`: a Jupyter Notebook with all the requested exercise.
+
 ## Group Members [Group 16]
 Davide Cacciatore - GitHub: [DavideCacciatore](https://github.com/DavideCacciatore)
  
